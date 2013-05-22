@@ -61,6 +61,6 @@ Currently you can view these metrics/dimensions:
 Credits
 -------
 
-Thanks to [Jeffrey B. Murphy](http://www.jbmurphy.com/2013/01/11/2237/) and [Mario Alemi](http://www.visualab.org/index.php/using-google-rest-api-for-analytics) for their excellent articles on Google OAuth2 authentication on the shell.
+Thanks to [Jeffrey B. Murphy](http://www.jbmurphy.com/2013/01/11/2237/) and [Mario Alemi](http://www.visualab.org/index.php/using-google-rest-api-for-analytics) for their excellent articles on Google OAuth2 authentication on the shell. Also thanks to [Dominic Tarr](https://github.com/dominictarr/JSON.sh) for his great shell JSON parser.
 
 Some of the icons are part of the "Web Design" icon pack created by [Liam McKay](http://wefunction.com/).
