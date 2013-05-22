@@ -27,7 +27,7 @@ Before you can use the workflow you have to configure your Google Analytics acco
 
 #### Setup
 
-* **`.gaauth` [Google Auth Code]** - Authorize workflow to access your Google Analytics data
+* **`.gaauth [Google Auth Code]`** - Authorize workflow to access your Google Analytics data
 
 First call the keyword without an argument. This will redirect you to Google's authorization website.
 
@@ -41,7 +41,7 @@ Copy the auth code and call the keyword a second time with the auth code as argu
 
 ![](https://dl.dropboxusercontent.com/u/5453663/gaauth4.png)
 
-* **´.gaprofile´** - Choose your default profile
+* **`.gaprofile`** - Choose your default profile
 
 After you have authorized the workflow you have to choose your default profile.
 
@@ -60,3 +60,7 @@ Currently you can view these metrics/dimensions:
 
 Credits
 -------
+
+Thanks to [Jeffrey B. Murphy](http://www.jbmurphy.com/2013/01/11/2237/) and [Mario Alemi](http://www.visualab.org/index.php/using-google-rest-api-for-analytics) for their excellent articles on Google OAuth2 authentication on the shell.
+
+Some of the icons are part of the "Web Design" icon pack created by [Liam McKay](http://wefunction.com/).
